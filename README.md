@@ -1,9 +1,18 @@
-Hello,
-I'm Daniel and started my coding journey in march 2023 at 42Wolfsburg.
-I was always intersted in coding and IT, but never dived deep into it since then.
-Before 42 I programmed microprocessors in assembler and did some scripting for a gaming community.
-Now I'm coding more than 40hrs a week and really loving it. Time is flying by and I love to solve problems!
+# Daniel's Coding Journey 🚀
+👋 Hey there! I’m Daniel, a passionate coder on a journey through the digital landscape. 🌐
 
-At the moment I'm focusing on 42 projects. My code is improving from week to week.
-
-On the weekends I did some frontend stuff for discovering and want to learn more about Godot Engine.
+## About Me
+🚀 Started my coding adventure at 42Wolfsburg in March 2023.
+💡 Always had an affinity for IT, but it wasn’t until recently that I dove headfirst into the world of programming.
+⏰ Now, I’m spending over 40 hours a week coding, and time just flies by—I guess you could say I’m hooked! 💻
+🧩 Solving problems is my jam, and my code keeps getting better week after week.
+## Projects I’ve Tackled
+📚 Created my own custom library with printf and get_next_line.
+🛠️ Implemented essential C functions like memcpy, strcpy, strncpy, and even tackled string splitting.
+🖥️ Crafted a Minishell in C and dabbled in raycasting for a game.
+🧠 Explored threads and solved the classic philosopher’s problem.
+🌐 Ventured into C++ and built a webserver.
+## What’s Next?
+🎮 On weekends, I tinker with frontend development and explore the fascinating world of Godot Engine.
+## Let’s Connect!
+📬 Feel free to reach out on LinkedIn or drop me an email—I’d love to chat about code, tech, or anything else! 🤝
