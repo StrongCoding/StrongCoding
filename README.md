@@ -28,4 +28,4 @@
   - Small game with raycasting
   - solved the classic philosopher’s problem exploring Threads.
 - C++
-    Webserver with I/O multiplexing
+  - Webserver with I/O multiplexing
