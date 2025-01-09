@@ -22,8 +22,8 @@
   - Full-Stack webapplication (Django Backend with Restframework API, JWT etc)
   - Website for a local festival
 - C
-  - Custom library (for example with own printf ,et_next_line, memcpy, strcpy, strncpy, and even tackled string splitting)
-  - Custom wokring minishell
+  - Custom library (for example with own printf ,get_next_line, memcpy, strcpy, strncpy, and even tackled string splitting)
+  - Custom working minishell
   - Small 2D game top down view
   - Small game with raycasting
   - solved the classic philosopher’s problem exploring Threads.
