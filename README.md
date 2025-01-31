@@ -21,7 +21,7 @@
   - Justice ticket system for a role-play game server (Mostly PHP and HTML, SQL)
   - Full-Stack webapplication (Django Backend with Restframework API, JWT etc)
   - Website for a local festival
-  - Chrome Extension: Scraper
+  - Chrome Extension: Scraper, sending data to Database and Discord
   - Music Quiz with Spotify API and gpt API.
 - C
   - Custom library (for example with own printf ,get_next_line, memcpy, strcpy, strncpy, and even tackled string splitting)
